@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @avavance
+- 👀 I’m interested in mern stack, serverless, rest api
+- 🌱 I’m currently learning node js
+- 💞️ I’m looking to collaborate on node js
+- 📫 How to reach me avavance443@gmail.com
